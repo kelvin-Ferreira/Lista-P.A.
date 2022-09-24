@@ -1,0 +1,13 @@
+QUESTÃO 9:
+
+◦ x for declarado como char?
+ Para um vetor char:  x+1=4093 x+2=4094 e x+3=4095.
+
+◦ x for declarado como int?
+ Para um vetor int:  x+1=4094 x+2=4096 e x+3=4098.
+
+◦ x for declarado como float?
+ Para um vetor float:  x+1=4096 x+2=4100 e x+3=4104.
+
+◦ x for declarado como double?
+ Para um vetor double:  x+1=4100 x+2=4108 e x+3=4116.
